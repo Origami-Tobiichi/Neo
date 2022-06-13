@@ -9,19 +9,19 @@ global.iklan = fs.readFileSync("./plugins/gambar/iklan.jpg")
 global.sewabot = fs.readFileSync("./plugins/gambar/sewa.jpg")
 global.qris = fs.readFileSync("./plugins/gambar/qris.jpg")
 global.err4r = "https://telegra.ph/file/7188012d573871aaf4fa0.jpg"
-global.owner = ['6282279915237','6285789004732']
-global.ownernumber = "6282279915237"
-global.ownername = "Lexxy Official"
-global.namebot = "NeoBotzMD"
+global.owner = ['6283122268649','6283853214466']
+global.ownernumber = "6283122268649"
+global.ownername = "Origami Tobiichi"
+global.namebot = "Origami"
 global.lolhuman = "YOUR_APIKEY"
 global.rkyt = []
 global.banUser = ['6281366679021@s.whatsapp.net']
 global.ntilink = ['120363043965529911@g.us','120363022988111568@g.us']
 global.wlcm = []
 global.gcrevoke = ['19054091487-1424650263@g.us']
-global.packname = "© Lexxy || Official"
-global.packname2 = "Lord_Lexxy😎"
-global.author = "Lexxy_Dev"
+global.packname = "© Origami || Tobiichi"
+global.packname2 = "Origami_Tobiichi😎"
+global.author = "Origami_Tobiichi"
 global.sessionName = "session"
 global.linkgrupss = "https://chat.whatsapp.com/E3zewfxrc5pKE6Rzb3BuqG"
 global.antitags = true
@@ -40,8 +40,8 @@ global.mess = {
 }
 global.limitawal = {
     premium: "Infinity",
-    free: 20,
-    monayawal: 1000
+    free: 70,
+    monayawal: 10000
 }
    global.rpg = {
    darahawal: 100,
@@ -53,7 +53,7 @@ global.limitawal = {
 }
 global.limitawal = {
     rakyat: "Infinity",
-    free: 20
+    free: 70
 }
 // Beli Di Zenz Yo
 global.APIs = {
